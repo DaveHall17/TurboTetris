@@ -8,3 +8,9 @@ DerivedDataCache/
 /Binaries/Win64/UE4Editor-TurboTetris-5653.dll
 /Binaries/Win64/UE4Editor-TurboTetris-5653.pdb
 /TurboTetris.sln
+/.idea/.idea.TurboTetris/.idea/.gitignore
+/.idea/.idea.TurboTetris/.idea/encodings.xml
+/.idea/.idea.TurboTetris/.idea/indexLayout.xml
+/.idea/.idea.TurboTetris/.idea/vcs.xml
+/Binaries/Win64/UE4Editor-TurboTetris.dll
+/Binaries/Win64/UE4Editor-TurboTetris.pdb
