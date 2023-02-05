@@ -14,3 +14,12 @@ DerivedDataCache/
 /.idea/.idea.TurboTetris/.idea/vcs.xml
 /Binaries/Win64/UE4Editor-TurboTetris.dll
 /Binaries/Win64/UE4Editor-TurboTetris.pdb
+/Binaries/Win64/OpenImageDenoise.dll
+/Binaries/Win64/tbb12.dll
+/Binaries/Win64/TurboTetris-Win64-Shipping.exe
+/Binaries/Win64/TurboTetris-Win64-Shipping.exp
+/Binaries/Win64/TurboTetris-Win64-Shipping.lib
+/Binaries/Win64/TurboTetris-Win64-Shipping.pdb
+/Binaries/Win64/TurboTetris-Win64-Shipping.target
+/Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
+/Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
